@@ -1,0 +1,1085 @@
+{
+  "musicScore": [
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 7.10,
+      "noteType": 1,
+      "trackNum": 3,
+      "lastTime": 0.86
+    },
+
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 9.00,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.68
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 9.94,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 10.40,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 10.58,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.84
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 12.50,
+      "noteType": 1,
+      "trackNum": 3,
+      "lastTime": 0.63
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 13.45,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 13.82,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 14.00,
+      "noteType": 1,
+      "trackNum": 1,
+      "lastTime": 0.90
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 15.91,
+      "noteType": 1,
+      "trackNum": 3,
+      "lastTime": 0.64
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 16.80,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 17.20,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 17.40,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.86
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 19.28,
+      "noteType": 1,
+      "trackNum": 2,
+      "lastTime": 0.70
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 20.10,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 20.24,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 20.62,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 20.85,
+      "noteType": 1,
+      "trackNum": 3,
+      "lastTime": 0.95
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 22.75,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.70
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 24.30,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 26.28,
+      "noteType": 1,
+      "trackNum": 2,
+      "lastTime": 0.60
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 27.80,
+      "noteType": 1,
+      "trackNum": 1,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 29.70,
+      "noteType": 1,
+      "trackNum": 1,
+      "lastTime": 0.62
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 30.54,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 30.96,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 31.20,
+      "noteType": 1,
+      "trackNum": 1,
+      "lastTime": 0.76
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 33.10,
+      "noteType": 1,
+      "trackNum": 3,
+      "lastTime": 0.50
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 34.58,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 1.00
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 38.00,
+      "noteType": 1,
+      "trackNum": 8,
+      "lastTime": 1.00
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 41.50,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 1.00
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 44.80,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 46.40,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 46.70,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 47.00,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.40
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 47.50,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 0.70
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 48.50,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.40
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 47.00,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 3.50
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 51.32,
+      "noteType": 0,
+      "trackNum": 8
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 51.86,
+      "noteType": 1,
+      "trackNum": 8,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 53.10,
+      "noteType": 1,
+      "trackNum": 7,
+      "lastTime": 0.60
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 54.35,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 54.74,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 55.50,
+      "noteType": 1,
+      "trackNum": 7,
+      "lastTime": 2.30
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 58.10,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 58.70,
+      "noteType": 1,
+      "trackNum": 8,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 60.00,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.50
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 61.20,
+      "noteType": 0,
+      "trackNum": 8
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 61.60,
+      "noteType": 0,
+      "trackNum": 8
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 62.00,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.70
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 65.00,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 65.40,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 66.65,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 0.50
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 67.94,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 68.35,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 68.80,
+      "noteType": 1,
+      "trackNum": 11,
+      "lastTime": 0.50
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 71.82,
+      "noteType": 0,
+      "trackNum": 4
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 72.25,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.60
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 73.50,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 0.30
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 74.80,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 75.20,
+      "noteType": 0,
+      "trackNum": 11
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 75.80,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 2.70
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 78.72,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 79.20,
+      "noteType": 1,
+      "trackNum": 1,
+      "lastTime": 1.15
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 80.46,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 80.90,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 1.15
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 82.10,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 82.66,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 2.80
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 85.58,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 86.00,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 1.25
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 87.30,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 87.76,
+      "noteType": 1,
+      "trackNum": 0,
+      "lastTime": 0.88
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 89.18,
+      "noteType": 2,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 89.40,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 2.90
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 92.46,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 93.0,
+      "noteType": 1,
+      "trackNum": 9,
+      "lastTime": 1.20
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 94.22,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 94.65,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 95.95,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 96.40,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 2.90
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 99.40,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 99.80,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 1.10
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 101.00,
+      "noteType": 0,
+      "trackNum": 11
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 101.40,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 1.36
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 102.80,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 103.17,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 2.95
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 106.20,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 106.54,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 1.16
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 107.73,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 108.15,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 1.10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 110.00,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 2.90
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 113.08,
+      "noteType": 0,
+      "trackNum": 6
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 113.40,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 1.24
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 114.75,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 115.00,
+      "noteType": 1,
+      "trackNum": 11,
+      "lastTime": 1.50
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 116.88,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 3.12
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 120.34,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 1.40
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 121.80,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 122.00,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 1.40
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 123.50,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 123.75,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 2.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 127.16,
+      "noteType": 1,
+      "trackNum": 10,
+      "lastTime": 1.38
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 128.70,
+      "noteType": 1,
+      "trackNum": 11,
+      "lastTime": 0.55
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 130.50,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 131.00,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 131.50,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 132.04,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 132.50,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 133.06,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 134.15,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 134.50,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 134.90,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 135.50,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 136.00,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 136.40,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 136.65,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 137.00,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 137.50,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 137.82,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 138.24,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 138.86,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 139.90,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 141.00,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 141.30,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 141.70,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 142.42,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 142.84,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 143.26,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 143.92,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 144.36,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 144.75,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 145.06,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 145.66,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 146.18,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 146.86,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 147.94,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 148.24,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 148.52,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 149.18,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 149.64,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 150.02,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 150.66,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 151.24,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 151.52,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 152.03,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 152.60,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 153.09,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 153.72,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 154.68,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 155.00,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 155.40,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 156.00,
+      "noteType": 0,
+      "trackNum": 1
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 156.50,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 156.94,
+      "noteType": 0,
+      "trackNum": 2
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 157.18,
+      "noteType": 0,
+      "trackNum": 3
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 157.61,
+      "noteType": 0,
+      "trackNum": 0
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 185.50,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.64
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 188.46,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 188.92,
+      "noteType": 1,
+      "trackNum": 5,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 190.18,
+      "noteType": 1,
+      "trackNum": 4,
+      "lastTime": 0.50
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 191.40,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 191.85,
+      "noteType": 0,
+      "trackNum": 9
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 192.40,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.62
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 195.20,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 195.75,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.80
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 197.05,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 0.60
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 198.24,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteBar:#Note",
+      "arrivalTime": 198.70,
+      "noteType": 0,
+      "trackNum": 10
+    },
+    {
+      "__type": "Note_NoteStrip:#Note",
+      "arrivalTime": 199.16,
+      "noteType": 1,
+      "trackNum": 6,
+      "lastTime": 1.10
+    }
+  ],
+  "scoreOfNoteBar": 1,
+  "scorePerSecOfNoteStrip": 10,
+  "easyVel": 10.0,
+  "difficultVel": 20.0
+}
+
+
